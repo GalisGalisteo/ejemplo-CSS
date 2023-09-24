@@ -1,0 +1,37 @@
+body {
+    background-color: rgb(207, 207, 207);
+    font-family:Arial, Helvetica, sans-serif;
+    max-width: 40rem;
+    margin: auto;
+}
+
+h1 {
+    font-size: 3rem;
+    text-align: center;
+    letter-spacing: 8px;
+}
+
+h2 {
+    font-size: 2rem;
+    background-color: gray;
+    color: white;
+    padding: 5px;
+}
+
+p {
+    text-indent: 2rem;
+    text-align: justify;
+}
+
+span {
+    color: red;
+}
+
+mark {
+    background-color: white;
+}
+
+section img {
+    float: left; 
+    margin: 10px;
+}
